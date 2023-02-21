@@ -3,7 +3,7 @@ Perform analysis on Superstore sales data and create dashboard for 2015 - 2018 s
 
 
 Tools
-SQL Server, PowerBI, Excel
+SQL Server, PowerBI, Python, Excel
 
 Queries:
 	1. Which month had the highest sales?
